@@ -1,5 +1,3 @@
-#micropost
-
 2nd Capstone project for Udemy course Modern JavaScript From The Beginning by Brad Traversy
 
 # Babel Webpack Starter
